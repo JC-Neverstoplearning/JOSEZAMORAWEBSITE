@@ -1,2 +1,2 @@
 # JoseZamoraWebsite
-My website about my resume
+My website about my portfolio
