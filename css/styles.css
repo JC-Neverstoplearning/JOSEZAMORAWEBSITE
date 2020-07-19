@@ -84,7 +84,7 @@ body{
     z-index: 9999;
 }
 .menu .logo-box{margin-left: 20px;}
-.menu .logo-box h1 a{
+.menu .logo-box h2 a{
     text-decoration: none;
     font-size: var(--title);
     font-weight: 400;
@@ -246,7 +246,7 @@ body{
     justify-content: center;
     flex-direction: column;
 }
-.acerca-de .info-container h1{
+.acerca-de .info-container h2{
     font-size: 50px;
     font-weight: 400;
     color: var(--black);
